@@ -190,14 +190,14 @@ I'm a software developer passionate about writing clean, efficient code and cont
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mukasa-Matthew&theme=github_dark" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukasa-matthew&theme=github_dark" />
 
 </div>
 
 <div align="center">
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukasa-Matthew&theme=github_dark" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muganga-charles&theme=github_dark" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukasa-matthew&theme=github_dark" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukasa-matthew&theme=github_dark" />
 
 </div>
 

@@ -190,7 +190,7 @@ I'm a software developer passionate about writing clean, efficient code and cont
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muganga-charles&theme=github_dark" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mukasa-Matthew&theme=github_dark" />
 
 </div>
 

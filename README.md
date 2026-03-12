@@ -185,3 +185,26 @@ I'm a software developer passionate about writing clean, efficient code and cont
 
 <sub>⭐ If you find my work helpful, consider giving a star to my repositories!</sub>
 </div>
+
+### GitHub Stats
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muganga-charles&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muganga-charles&theme=github_dark" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muganga-charles&theme=github_dark" />
+
+</div>
+
+---
+<div align="center">
+
+Open to collaborations, consulting, and training engagements.\
+If you have a problem that lives somewhere between data and software, let's talk.
+
+</div>

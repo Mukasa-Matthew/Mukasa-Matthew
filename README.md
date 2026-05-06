@@ -201,6 +201,14 @@ I'm a software developer passionate about writing clean, efficient code and cont
 
 </div>
 
+### 🔥 GitHub Streak
+
+<div align="center">
+
+<img width="98%" src="https://ghstats.dev/api/card?username=Mukasa-Matthew&theme=github_dark&custom_title=GitHub%20Streak&hide=stars,commits,prs,issues,week,trend,avg,active_day,grade,contributions,repos,followers" />
+
+</div>
+
 ---
 <div align="center">
 

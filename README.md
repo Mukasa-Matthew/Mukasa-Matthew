@@ -45,21 +45,40 @@ Based on my public repositories, my primary coding languages include:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## GitHub Metrics
+## GitHub Metrics — Key Highlights
+
+Below are live, concise metrics that recruiters and collaborators find most useful. Cards are dynamically generated so data stays up to date.
 
 <div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukasa-matthew&theme=github_dark" />
+  <table><tr>
+    <td valign="top" width="42%">
+      <!-- Profile summary -->
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukasa-matthew&theme=github_dark" alt="profile card" width="100%"/>
+    </td>
+    <td valign="top" width="29%">
+      <!-- Top languages by repository -->
+      <div style="padding-left:12px;">
+        <div style="font-weight:700;margin-bottom:8px;color:#c9d1d9;">Top Languages (by repo)</div>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukasa-matthew&theme=github_dark" alt="top languages by repo" width="100%"/>
+      </div>
+    </td>
+    <td valign="top" width="29%">
+      <!-- Top languages by commit -->
+      <div style="padding-left:12px;">
+        <div style="font-weight:700;margin-bottom:8px;color:#c9d1d9;">Top Languages (by commit)</div>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukasa-matthew&theme=github_dark" alt="top languages by commit" width="100%"/>
+      </div>
+    </td>
+  </tr></table>
 </div>
 
-<div align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukasa-matthew&theme=github_dark" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukasa-matthew&theme=github_dark" />
+<div align="center" style="margin-top:14px;">
+  <!-- Compact streak card -->
+  <img src="https://ghstats.dev/api/card?username=Mukasa-Matthew&theme=github_dark&custom_title=GitHub%20Streak&hide=stars,commits,prs,issues,week,trend,avg,active_day,grade,contributions,repos,followers" alt="github streak" width="84%"/>
 </div>
 
-### GitHub Streak
-
-<div align="center">
-  <img width="98%" src="https://ghstats.dev/api/card?username=Mukasa-Matthew&theme=github_dark&custom_title=GitHub%20Streak&hide=stars,commits,prs,issues,week,trend,avg,active_day,grade,contributions,repos,followers" />
+<div align="center" style="margin-top:10px;color:#9aa6b2;">
+  - Live stats update automatically; may be briefly cached by CDNs. -
 </div>
 
 ## Contact

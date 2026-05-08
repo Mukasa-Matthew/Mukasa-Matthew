@@ -6,7 +6,7 @@ I work on practical software that solves real business and user problems, with a
 
 ## Professional Summary
 
-- Full-stack engineering: end-to-end web application delivery across frontend and backend systems.
+- Full-stack engineering: end-to-end web & Mobile application delivery across frontend and backend systems.
 - Backend and platform engineering: API design, distributed services, and system integration.
 - Frontend engineering: responsive, user-focused interfaces for web applications.
 - Cloud and DevOps: containerized deployments, infrastructure automation, CI/CD, and observability.

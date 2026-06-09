@@ -9,8 +9,12 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Mukasa-Matthew&style=flat-square&color=0e75b6&label=Profile+Views)](https://github.com/Mukasa-Matthew)
 [![Years Badge](https://badges.pufler.dev/years/Mukasa-Matthew?style=flat-square&color=0e75b6)](https://github.com/Mukasa-Matthew)
 [![Repos Badge](https://badges.pufler.dev/repos/Mukasa-Matthew?style=flat-square&color=0e75b6)](https://github.com/Mukasa-Matthew)
+<!-- Monthly Commits Metric -->
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Mukasa-Matthew?style=flat-square&color=0e75b6)](https://github.com/Mukasa-Matthew)
-[![committers.top badge](https://user-badge.committers.top/uganda_public/Mukasa-Matthew.svg)](https://user-badge.committers.top/uganda_public/Mukasa-Matthew)
+
+<!-- Uganda Country Rank Metric -->
+[![committers.top badge](https://user-badge.committers.top/uganda_public/Mukasa-Matthew.svg)](https://committers.top/uganda.html)
+
 
 </div>
 

@@ -34,7 +34,7 @@
 ## Current Focus
 
 - Designing and shipping scalable backend systems.
-- Advancing in AI engineering and cloud-native architecture.
+- Advancing in AI engineering and cloud-native architectures.
 - Collaborating on impactful open-source and product projects.
 
 ---

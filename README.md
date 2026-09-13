@@ -24,9 +24,9 @@
 
 - **Full-stack engineering** — End-to-end web & mobile application delivery across frontend and backend systems.
 - **Backend & platform engineering** — API design, distributed services, and system integration.
-- **Frontend engineering** — Responsive, user-focused interfaces for web applications.
+- **Frontend engineering** — Responsive, user focused interfaces for web applications.
 - **Cloud & DevOps** — Containerized deployments, infrastructure automation, CI/CD, and observability.
-- **Mobile & product engineering** — Cross-platform and native app development.
+- **Mobile & product engineering** — Cross platform and native app development.
 - **AI/ML application engineering** — Model integration, experimentation workflows, and data-driven features.
 
 ---
@@ -34,7 +34,7 @@
 ## Current Focus
 
 - Designing and shipping scalable backend systems.
-- Advancing in AI engineering and cloud-native architectures.
+- Advancing in AI engineering and cloud native architectures.
 - Collaborating on impactful open-source and product projects.
 
 ---

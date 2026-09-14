@@ -4,7 +4,7 @@
 
 ### Full-Stack Software Developer
 
-*Building reliable, production-ready systems across frontend, backend, cloud infrastructure, mobile development, and applied Artificial I.*
+*Building reliable, production ready systems across frontend, backend, cloud infrastructure, mobile development, and applied Artificial I.*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Mukasa-Matthew&style=flat-square&color=0e75b6&label=Profile+Views)](https://github.com/Mukasa-Matthew)
 [![Years Badge](https://badges.pufler.dev/years/Mukasa-Matthew?style=flat-square&color=0e75b6)](https://github.com/Mukasa-Matthew)
@@ -35,7 +35,7 @@
 
 - Designing and shipping scalable backend systems.
 - Advancing in AI engineering and cloud native architectures.
-- Collaborating on impactful open-source and product projects.
+- Collaborating on impactful open source and product projects.
 
 ---
 

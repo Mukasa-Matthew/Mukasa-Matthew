@@ -182,7 +182,7 @@
 
 ---
 
-## Contact
+## Contacts
 
 <div align="center">
 

@@ -1,197 +1,103 @@
 <div align="center">
 
-# Matthew Mukasa
+# Mukasa Matthew
 
-### Full-Stack Software Developer
+### Software | DevOps Engineer
 
-*Building reliable, production ready systems across frontend, backend, cloud infrastructure, mobile development, and applied Artificial I.*
+*I design and build software systems, backend services, APIs, and automation, then deliver and operate them using Linux, containers, cloud infrastructure, networking, CI/CD, and observability.*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Mukasa-Matthew&style=flat-square&color=0e75b6&label=Profile+Views)](https://github.com/Mukasa-Matthew)
-[![Years Badge](https://badges.pufler.dev/years/Mukasa-Matthew?style=flat-square&color=0e75b6)](https://github.com/Mukasa-Matthew)
-[![Repos Badge](https://badges.pufler.dev/repos/Mukasa-Matthew?style=flat-square&color=0e75b6)](https://github.com/Mukasa-Matthew)
-<!-- Monthly Commits Metric -->
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/Mukasa-Matthew?style=flat-square&color=0e75b6)](https://github.com/Mukasa-Matthew)
-
-<!-- Uganda Country Rank Metric -->
-[![committers.top badge](https://user-badge.committers.top/uganda_public/Mukasa-Matthew.svg)](https://committers.top/uganda.html)
-
+<p align="center">
+  <a href="https://github.com/Mukasa-Matthew">
+    <img src="https://api.visitorbadge.io/api/combined?path=Mukasa-Matthew.Mukasa-Matthew&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://committers.top/uganda.html">
+    <img src="https://user-badge.committers.top/uganda_public/Mukasa-Matthew.svg" alt="Uganda Rank" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mukasa-matthew-aa8048319/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:matthewmukasa0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## Professional Summary
+## 🧭 How I Work
 
-- **Full-stack engineering** — End-to-end web & mobile application delivery across frontend and backend systems.
-- **Backend & platform engineering** — API design, distributed services, and system integration.
-- **Frontend engineering** — Responsive, user focused interfaces for web applications.
-- **Cloud & DevOps** — Containerized deployments, infrastructure automation, CI/CD, and observability.
-- **Mobile & product engineering** — Cross platform and native app development.
-- **AI/ML application engineering** — Model integration, experimentation workflows, and data-driven features.
+### Engineering beyond the codebase
+I connect application development with the infrastructure, delivery, and operational thinking required to run software reliably at scale.
 
----
-
-## Current Focus
-
-- Designing and shipping scalable backend systems.
-- Advancing in AI engineering and cloud native architectures.
-- Collaborating on impactful open source and product projects.
+* **Build — Software Systems & APIs**  
+  Designing robust backend applications, high-throughput microservices, domain data models, and resilient APIs that scale cleanly under production loads.
+* **Operate — Cloud-Native Infrastructure & Reliability**  
+  Provisioning and managing Linux environments, containerized clusters, zero-trust networking, and comprehensive system observability (metrics, logs, traces).
+* **Improve — Platform Engineering & Automation**  
+  Building repeatable delivery pipelines, Infrastructure as Code (IaC), GitOps workflows, and Internal Developer Platforms (IDPs) to accelerate developer velocity.
 
 ---
 
-## Core Technology Stack
+## 🛠️ Core Technology Stack
 
-**Languages**
+**Languages & Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+**Databases & Caching**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-
-**Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin_Android-7F52FF?style=for-the-badge&logo=android&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
+**Cloud, DevOps & Platform Engineering**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
 ---
 
-## GitHub Metrics — Live Dashboard
-
-
-
-### 📈 Profile Summary & Language Breakdown
+## 📈 Real-Time GitHub Metrics
 
 <div align="center">
   <table>
     <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukasa-matthew&theme=github_dark" alt="Profile summary" width="100%"/>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Mukasa-Matthew&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&disable_animations=false" alt="GitHub Stats" />
       </td>
-      <td valign="top" width="25%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukasa-matthew&theme=github_dark" alt="Top languages by repo" width="100%"/>
-        <p align="center"><sub>Top Languages (by repo)</sub></p>
-      </td>
-      <td valign="top" width="25%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukasa-matthew&theme=github_dark" alt="Top languages by commit" width="100%"/>
-        <p align="center"><sub>Top Languages (by commit)</sub></p>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukasa-Matthew&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukasa-Matthew&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
 
-### 📊 Core Stats & Streak
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Mukasa-Matthew&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" width="100%"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukasa-Matthew&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🗺️ Contribution Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukasa-Matthew&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" width="100%"/>
-</div>
-
----
-
-### ⭐ Most Starred & Top Repositories
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukasa-Matthew&repo=mukasa-matthew&theme=github_dark&hide_border=true&show_owner=false" alt="Top repo 1"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukasa-Matthew&layout=compact&theme=github_dark&hide_border=true&langs_count=8&count_private=true" alt="Top languages compact"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🏅 Commit & Stats Breakdown
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukasa-matthew&theme=github_dark" alt="Stats card" width="100%"/>
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mukasa-matthew&theme=github_dark&utcOffset=3" alt="Productive time" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <sub>⚡ Live stats — pulled directly from GitHub API · may be briefly cached by CDNs</sub>
-</div>
-
----
-
-## Contacts
+## 📬 Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-matthewmukasa0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthewmukasa0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Mukasa--Matthew-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mukasa-Matthew)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mukasa--matthew-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukasa-matthew-aa8048319/)
+<a href="mailto:matthewmukasa0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mukasa-matthew-aa8048319/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+&nbsp;&nbsp;
+<a href="https://github.com/Mukasa-Matthew"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 
 </div>
 
 <div align="center">
-  <i>Open to software engineering collaborations, consulting engagements, and technical partnerships.</i>
+  <i>Open to Software Engineering, DevOps, and Platform Engineering opportunities.</i>
 </div>
